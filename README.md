@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 <p>
     </br>
-    <img src="./assets/images/mhfortuna-logo.png">
+    <img src="./assets/images/mhfortuna-logo.png" height="100">
 </p>
-<p style="color:#0D1117">Use dark mode to find my logo</p>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mhfortuna?style=social" align="right">
 <br />
 
@@ -65,7 +64,7 @@ _Happy coding!_ 😊
 
 ### How to reach me 📫 
 <a href="https://www.linkedin.com/in/mathias-fortuna/" ><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="Linkedin" /></a>
-<a href="https://www.linkedin.com/in/mathias-fortuna/" ><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Linkedin" /></a>
+<a href="https://www.instagram.com/mathifortuna/" ><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Linkedin" /></a>
 
 
 
@@ -76,6 +75,5 @@ _Happy coding!_ 😊
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhfortuna&count_private=true&show_icons=true&theme=react&hide_border=true&layout=compact" />
 </a>
 
-<br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mhfortuna.mhfortuna)
 
