@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Mechanical Engineering. </br>
+🌱 I’m a Full stack developer with a master's degree in Mechanical Engineering. </br>
 👨‍💻  I am passionate about technology and love to keep learning. </br>
 📷  In my free time I like to go to the mountains, take pictures and make videos. </br>
 💬 Ask me about development, motorsport, fluid simulation
