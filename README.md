@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<p>
-    </br>
-    <img src="./assets/images/mhfortuna-logo.png" height="150" align="center">
+<p align="center">
+    <img src="./assets/images/mhfortuna-logo.png" height="150">
 </p>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mhfortuna?style=social" align="right">
 <br />
@@ -76,6 +75,6 @@ _Happy coding!_ 😊
 </a>
 
 <br>
-<a href="https://visitor-badge.laobi.icu">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mhfortuna.mhfortuna" />
-</a>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mhfortuna.mhfortuna" />
+</p>
