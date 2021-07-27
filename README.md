@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p>
     </br>
-    <img src="./assets/images/mhfortuna-logo.png" height="100">
+    <img src="./assets/images/mhfortuna-logo.png" height="150" align="center">
 </p>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mhfortuna?style=social" align="right">
 <br />
@@ -75,5 +75,7 @@ _Happy coding!_ 😊
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhfortuna&count_private=true&show_icons=true&theme=react&hide_border=true&layout=compact" />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mhfortuna.mhfortuna)
-
+<br>
+<a href="https://visitor-badge.laobi.icu">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mhfortuna.mhfortuna" />
+</a>
