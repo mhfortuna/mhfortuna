@@ -74,7 +74,7 @@ _Happy coding!_ 😊
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhfortuna&count_private=true&show_icons=true&theme=react&hide_border=true&layout=compact" />
 </a>
 
-<br>
+<br><br>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mhfortuna.mhfortuna" />
 </p>
