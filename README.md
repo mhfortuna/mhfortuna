@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ### About Me 🚀
 🌱 I’m a Full stack developer with a master's degree in Mechanical Engineering. </br>
 👨‍💻  I am passionate about technology and love to keep learning. </br>
-📷  In my free time I like to go to the mountains, take pictures and make videos. </br>
-💬 Ask me about development, motorsport, fluid simulation
+📷  In my free time I like to play padel, hike or jog. </br>
+💬 Ask me about development, motorsport, padel
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
