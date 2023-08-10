@@ -71,11 +71,6 @@ _Happy coding!_ 😊
 <br/>
 <!-- <a href="https://mathiasfortuna.com/" >Personal Portfolio</a> -->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhfortuna&count_private=true&hide=stars&show_icons=true&theme=react&hide_border=true" />
-</a>
-
 <br><br>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mhfortuna.mhfortuna" />
