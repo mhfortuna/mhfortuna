@@ -1,27 +1,5 @@
 ### Hi there, come in 🤓
 
-<!--
-**mhfortuna/mhfortuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<p align="center">
-    <img src="./assets/images/mhfortuna-logo.png" height="150">
-</p>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/mhfortuna?style=social" align="right">
-<br />
-
 ### About Me 🚀
 🌱 I’m a Full stack developer with a master's degree in Mechanical Engineering. </br>
 👨‍💻  I am passionate about technology and love to keep learning. </br>
@@ -75,3 +53,7 @@ _Happy coding!_ 😊
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mhfortuna.mhfortuna" />
 </p>
+
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mhfortuna?style=social" align="right">
+<br />
