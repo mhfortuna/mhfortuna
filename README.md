@@ -52,8 +52,6 @@ _Happy coding!_ 😊
 <br><br>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mhfortuna.mhfortuna" />
+  <br />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mhfortuna?style=social" align="right">
 </p>
-
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/mhfortuna?style=social" align="right">
-<br />
