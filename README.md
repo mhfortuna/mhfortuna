@@ -45,7 +45,6 @@ _Happy coding!_ 😊
 
 ### How to reach me 📫 
 <a href="https://www.linkedin.com/in/mathias-fortuna/" ><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="Linkedin" /></a>
-<a href="https://www.instagram.com/mathifortuna/" ><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Linkedin" /></a>
 <br/>
 <!-- <a href="https://mathiasfortuna.com/" >Personal Portfolio</a> -->
 
